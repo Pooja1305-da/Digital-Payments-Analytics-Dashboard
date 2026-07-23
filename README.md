@@ -1,3 +1,4 @@
+
 # Digital Payments Analytics Dashboard (UPI - 2024)
 
 ## Project Overview
@@ -55,7 +56,7 @@ This project analyzes 250,000+ UPI transactions using Python, Pandas, and Power 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard)
 
 
 ## Author
