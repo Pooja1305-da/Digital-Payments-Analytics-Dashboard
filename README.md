@@ -56,7 +56,7 @@ This project analyzes 250,000+ UPI transactions using Python, Pandas, and Power 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard)
+![Dashboard](dashboard.png)
 
 
 ## Author
